@@ -1,0 +1,35 @@
+.heading{
+    text-align: center;
+    font-size: 20px;
+    border: yellowgreen 4px groove;
+    border-radius: 20px;
+    font-family: cursive;
+}
+.content{
+    text-align: center;
+    border: black 3px solid;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+#username{
+    font-size: 15px;
+}
+#password{
+    font-size: 15px;
+    margin-left: 5px;
+}
+#text1{
+    font-size: 20px;
+    font-family: cursive;
+}
+#text2{
+    font-size: 20px;
+    font-family: cursive;
+}
+#submit{
+    background-color: grey;
+    color: white;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
